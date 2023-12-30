@@ -1,9 +1,8 @@
-<img src="https://i.imgur.com/jscYVqR.gifv">
+<img src="https://i.imgur.com/y8xvQyY.png">
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="40" src="https://i.imgur.com/K6bXgZP.gifv">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/cimedyT.jpg">
 
-<!--img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207-->
 
 
 - 🔭 I’m currently working on **AI Project**
