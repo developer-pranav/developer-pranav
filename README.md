@@ -31,7 +31,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/devpranav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy" /></a></p><br><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-pranav&show_icons=true&locale=en&layout=compact" alt="developer-pranav" /></p>
