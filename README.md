@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android Development|Web Development**
 
-- 📫 How to reach me **[developer.pranav3306@gmail.com](mailto:developer.pranav3306@gmail.com)**
+- 📫 How to reach me [developer.pranav3306@gmail.com](mailto:developer.pranav3306@gmail.com)
 
 - ⚡ Fun fact **I think I am Funny**
 
