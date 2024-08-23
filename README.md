@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter (Dart)**
 
 - 👨‍💻 All of my projects are available at [https://devpranav.vercel.app/](https://devpranav.vercel.app/)
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me: [developer.pranav3306@gmail.com](mailto:developer.pranav3306@gmail.com)
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
