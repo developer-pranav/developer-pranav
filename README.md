@@ -19,7 +19,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
   **Frontend**
  
  <img alt="html" width="30px" src="Assets/html.png"/>|<img alt="css" width="30px" src="Assets/css.png"/>|<img alt="javascript" width="30px" src="Assets/js.png"/>|<img alt="reactjs" width="30px" src="Assets/react.png"/>
- |--|--|--|
+ |--|--|--|--|
 
   **Backend**
  
@@ -34,7 +34,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  **Tools**
  
  <img alt="Ubuntu" width="30px" src="Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="Assets/linux.png"/>|<img alt="Git" width="30px" src="Assets/git.png"/>|<img alt="VSCode" width="30px" src="Assets/vscode.png"/>|<img alt="figma" width="30px" src="Assets/figma.png"/>|<img alt="postman" width="30px" src="Assets/postman.png"/>
- |--|--|--|--|
+ |--|--|--|--|--|--|
  
 
  **Connect with Me**
