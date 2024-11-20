@@ -1,36 +1,43 @@
-<img src="https://i.imgur.com/y8xvQyY.png">
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://i.imgur.com/cimedyT.jpg">
+
+<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Pranav</a> 👨‍💻</h1> 
 
 
-
-- 🔭 I’m currently working on **AI Project**
-
-- 🌱 I’m currently learning **Flutter (Dart)**
-
-- 👨‍💻 All of my projects are available at [https://devpranav.vercel.app/](https://devpranav.vercel.app/)
-
-- 💬 Ask me about **Android Development|Web Development**
-
-- 📫 How to reach me: [developer.pranav3306@gmail.com](mailto:developer.pranav3306@gmail.com)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/developer-pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developer-pranav" height="30" width="40" /></a>
-<a href="https://x.com/dev_pranav33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_pranav33" height="30" width="40" /></a>
-<a href="https://instagram.com/developer.pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer.pranav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developer-pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev-pranav" height="30" width="40" /></a>
-<a href="https://discord.gg/SjrttSAT6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pranav" height="30" width="40" /></a>
-</p>
+I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+ ## My Skills <img alt="Computer" width="30px" src="Assets/pc.png"/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/devpranav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy" /></a></p><br><br>
+ **Languages**
+ 
+ <img alt="C" width="30px" src="Assets/c.png"/>|<img alt="C++" width="30px" src="Assets/c++.png"/>|<img alt="Java" width="30px" src="Assets/java.png"/>|<img alt="Python" width="30px" src="Assets/python.png"/>|<img alt="JavaScript" width="30px" src="Assets/js.png"/>|<img alt="Flutter" width="30px" src="Assets/flutter.png"/>
+ |--|--|--|--|--|--|
 
+  **Frontend**
+ 
+ <img alt="html" width="30px" src="Assets/html.png"/>|<img alt="css" width="30px" src="Assets/css.png"/>|<img alt="javascript" width="30px" src="Assets/js.png"/>|<img alt="reactjs" width="30px" src="Assets/react.png"/>
+ |--|--|--|
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-pranav&show_icons=true&locale=en&layout=compact" alt="developer-pranav" /></p>
+  **Backend**
+ 
+ <img alt="python" width="30px" src="Assets/python.png"/>|<img alt="nodejs" width="30px" src="Assets/node-js.png"/>|<img alt="Java" width="30px" src="Assets/java.png"/>|<img alt="mongodb" width="30px" src="Assets/mongodb.png"/>
+ |--|--|--|--|
+ 
+ **Frameworks**
+ 
+ <img alt="nextjs" width="30px" src="Assets/next.png"/>|<img alt="tailwindcss" width="30px" src="Assets/tailwind.png"/>|<img alt="Express" width="30px" src="Assets/express.png"/>
+ |--|--|--|
+ 
+ **Tools**
+ 
+ <img alt="Ubuntu" width="30px" src="Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="Assets/linux.png"/>|<img alt="Git" width="30px" src="Assets/git.png"/>|<img alt="VSCode" width="30px" src="Assets/vscode.png"/>|<img alt="figma" width="30px" src="Assets/figma.png"/>|<img alt="postman" width="30px" src="Assets/postman.png"/>
+ |--|--|--|--|
+ 
+
+ **Connect with Me**
+---
+[<img align="left" alt="Rohan Das" width="30px" src="https://avatars.githubusercontent.com/u/127881282?v=4" />](https://rohandas28.github.io/links) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="Assets/twitter.png" />](https://twitter.com/dev-pranav33) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="Assets/instagram.png" />](https://www.instagram.com/prnav.sharma3) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="Assets/linkedin.png" />](https://www.linkedin.com/in/pranav-sharma33)  [<img align="left" alt="Email -Rohan Das" width="30px" src="Assets/gmail.png" />](mailto:developer.pranav3306@gmail.com)
+
