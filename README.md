@@ -1,13 +1,10 @@
 
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Pranav</a> 👨‍💻</h1> 
+<h1>Hi there, I am <a href="https://developer-pranav.github.io" target="_blank">Pranav</a> 👨‍💻</h1> 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+I'm Pranav, A Fullstack Passionate Developer from India 🇮🇳
 
-I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
-
----
 
  ## My Skills <img alt="Computer" width="30px" src="Assets/pc.png"/>
 
