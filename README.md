@@ -10,8 +10,8 @@ A Fullstack Passionate Developer from India 🇮🇳
 
  **Languages**
  
- <img alt="C" width="30px" src="Assets/c.png"/>|<img alt="C++" width="30px" src="Assets/c++.png"/>|<img alt="Java" width="30px" src="Assets/java.png"/>|<img alt="Python" width="30px" src="Assets/python.png"/>|<img alt="JavaScript" width="30px" src="Assets/js.png"/>|<img alt="Flutter" width="30px" src="Assets/flutter.png"/>
- |--|--|--|--|--|--|
+ <img alt="C" width="30px" src="Assets/c.png"/>|<img alt="C++" width="30px" src="Assets/c++.png"/>|<img alt="Java" width="30px" src="Assets/java.png"/>|<img alt="Python" width="30px" src="Assets/python.png"/>|<img alt="JavaScript" width="30px" src="Assets/js.png"/>
+ |--|--|--|--|--|
 
   **Frontend**
  
@@ -25,8 +25,8 @@ A Fullstack Passionate Developer from India 🇮🇳
  
  **Frameworks**
  
- <img alt="nextjs" width="30px" src="Assets/next.png"/>|<img alt="tailwindcss" width="30px" src="Assets/tailwind.png"/>|<img alt="Express" width="30px" src="Assets/express.png"/>
- |--|--|--|
+ <img alt="tailwindcss" width="30px" src="Assets/tailwind.png"/>|<img alt="Express" width="30px" src="Assets/express.png"/>
+ |--|--|
  
  **Tools**
  
